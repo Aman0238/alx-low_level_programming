@@ -3,13 +3,13 @@
 /**
  * leet - encodes a string in 1337
  * @s: string to be encode
- *    
+ *
  * Return: the resulting string;
  */
 char *leet(char *s)
 {
 	int i, j;
-		
+
 	char *a = "aAeEoOtTlL";
 	char *b = "4433007711";
 
